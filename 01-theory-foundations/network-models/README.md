@@ -15,7 +15,7 @@ These models help us **understand, design, and troubleshoot networks** from theo
 
 ## Contents  
 
-### [OSI Seven-Layer Model](./osi-seven-layers.md)  
+### [OSI Seven-Layer Model](./osi-seven-layers)  
 - Classic **7-layer reference model**.  
 - More **theoretical**.  
 - Used in interviews, study, and troubleshooting.  
@@ -23,7 +23,7 @@ These models help us **understand, design, and troubleshoot networks** from theo
 
 ---
 
-### [TCP/IP Five-Layer Model](./tcpip-five-layers.md)  
+### [TCP/IP Five-Layer Model](./tcpip-five-layers)   
 - The **real-world Internet model**.  
 - Practical, used in all actual networking.  
 - Layers: Physical → Data Link → Internet → Transport → Application.  
@@ -45,7 +45,7 @@ These models help us **understand, design, and troubleshoot networks** from theo
 
 ---
 
-Choose which model you want to dive into:  
-- [OSI Seven Layers](./osi-seven-layers.md)  
-- [TCP/IP Five Layers](./tcpip-five-layers.md)  
+Choose which model you want to dive into: 
+- [OSI Seven Layers](./osi-seven-layers)  
+- [TCP/IP Five Layers](./tcpip-five-layers)  
 
