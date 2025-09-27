@@ -19,7 +19,7 @@
 │   └── dhcp-and-nat.md           (core: IP leasing + address translation, every enterprise/cloud uses them)
 ├── security/
 │   └── vpn.md                    (lightweight but must-have)
-│   └──firewalls.md               (remote access + perimeter security)
+│   └── firewalls.md               (remote access + perimeter security)
 ├── modern-networking/
 │   ├── cloud-networking.md       (VPCs, subnets, peering, load balancers)
 │   └── network-automation.md     (APIs, IaC, why automation matters in DevOps)
