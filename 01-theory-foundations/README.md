@@ -1,3 +1,5 @@
+bash```
+
 01-theory-foundations/
 ├── README.md                     (overview: why these topics matter, how they tie to cloud/devops)
 ├── network-models/
@@ -20,3 +22,4 @@
 └── troubleshooting/
     └── troubleshooting-methods.md (systematic workflow: ping → traceroute → DNS → app layer)
 
+```
